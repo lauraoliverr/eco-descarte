@@ -1,2 +1,30 @@
-# eco-descarte
-Sistema web para auxiliar no descarte correto de resíduos e localização de pontos de coleta (ODS 12).
+# EcoDescarte
+
+## Objetivo
+
+Auxiliar usuários no descarte correto de resíduos, contribuindo com o ODS 12.
+
+## Problema
+
+A população possui dificuldade em identificar a forma correta de descarte de resíduos, o que contribui para a poluição ambiental.
+
+## Solução
+
+Sistema web que orienta o usuário sobre descarte correto e apresenta pontos de coleta.
+
+## Tipo de Sistema
+
+Sistema web com frontend e backend.
+
+## Justificativa
+
+Permite acesso facilitado via navegador, sem necessidade de instalação, além de possibilitar armazenamento e gerenciamento de dados.
+
+## Estrutura
+
+* docs/
+* src/
+
+## Requisitos
+
+Disponíveis na pasta /docs
