@@ -28,3 +28,8 @@ Permite acesso facilitado via navegador, sem necessidade de instalação, além 
 ## Requisitos
 
 Disponíveis na pasta /docs
+
+## Documentação
+
+- [Arquitetura do Sistema](docs/arquitetura.md)
+- [Diagrama de Caso de Uso](docs/caso-de-uso.md)
