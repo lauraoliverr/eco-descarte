@@ -17,3 +17,6 @@ Usuário
 
 * Buscar resíduo <<include>> Visualizar descarte
 * Visualizar pontos <<extend>> Favoritar pontos
+
+## Diagrama
+- [Casos de Uso](Casos_de_Uso.pdf)
