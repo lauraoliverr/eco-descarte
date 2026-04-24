@@ -32,4 +32,4 @@ Disponíveis na pasta /docs
 ## Documentação
 
 - [Arquitetura do Sistema](docs/arquitetura.md)
-- [Diagrama de Caso de Uso](docs/caso-de-uso.md)
+- [Diagrama de Caso de Uso](docs/caso_de_uso.md)
