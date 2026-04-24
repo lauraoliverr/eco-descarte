@@ -30,3 +30,8 @@ Essa abordagem permite:
 - Possibilidade de expansão futura (com backend e banco de dados)
 
 Além disso, o uso de tecnologias web torna o sistema acessível para qualquer usuário com acesso à internet.
+
+## Diagramas
+
+- [Diagrama de Contexto](contexto.pdf)
+- [Diagrama de Containers](containers.pdf)
